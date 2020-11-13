@@ -6,7 +6,7 @@ export default function IndexPage() {
       <Nav />
       <div className="py-20">
         <h1 className="text-5xl text-center text-accent-1">
-          Thao website
+          Thao website with Nextjs and Tailwindcss
         </h1>
       </div>
     </div>
