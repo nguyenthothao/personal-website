@@ -7,6 +7,7 @@ export default function IndexPage() {
       <div className="py-20">
         <h1 className="text-5xl text-center text-accent-1">
           Thao website with Nextjs and Tailwindcss
+          Personal website
         </h1>
       </div>
     </div>
